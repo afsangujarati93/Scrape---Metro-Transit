@@ -1,0 +1,10 @@
+*config.json
+*.log
+*.pyc
+__pycache__/
+*.XML
+.spyproject/
+*.pdf
+*.tsv
+*.csv
+*Output_json.json
